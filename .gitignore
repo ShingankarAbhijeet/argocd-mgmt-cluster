@@ -1,0 +1,13 @@
+ ubuntu-vm.pem
+ project.txt
+ project
+ terraform.tfstate*
+ 'Project - End-to-End Kubernetes Implementation.docx'
+ '~$oject - End-to-End Kubernetes Implementation.docx
+world_class_gitops_architecture.html
+gitops-architecture-just-enough.html
+gitops-runbook.html
+errored.tfstate
+app/*
+ k8s-platform-runbook.html
+ .gitignore
